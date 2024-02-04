@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prakhar-chat-app/static/css/main.7cfc36f4.css",
+    "main.js": "/prakhar-chat-app/static/js/main.cfd1d385.js",
+    "static/js/592.32f067f1.chunk.js": "/prakhar-chat-app/static/js/592.32f067f1.chunk.js",
+    "index.html": "/prakhar-chat-app/index.html",
+    "main.7cfc36f4.css.map": "/prakhar-chat-app/static/css/main.7cfc36f4.css.map",
+    "main.cfd1d385.js.map": "/prakhar-chat-app/static/js/main.cfd1d385.js.map",
+    "592.32f067f1.chunk.js.map": "/prakhar-chat-app/static/js/592.32f067f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfc36f4.css",
+    "static/js/main.cfd1d385.js"
+  ]
+}
